@@ -1,0 +1,31 @@
+cd\
+
+cd ¤J®|
+
+git config --global user.name'it-166'
+git config --global user.email'it-166@hancan.com.tw'
+git config -l
+
+git init
+
+git remote add origin https://github.com/hancan01/test.git
+
+
+
+git status
+
+git add *
+
+git commit -m first_commit
+
+git push -u origin master
+
+git pull -u origin master
+
+
+
+git commit -m "666666666.bmp"
+
+
+ 
+
